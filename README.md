@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/Ty2dgyXJ5eSmMT5oiQ/giphy.gif?cid=6c09b9525nd761pt6ojc7rai6xikktgensgv2e9xpolt1aow&ep=v1_stickers_related&rid=giphy.gif&ct=s"/>
+
 <h1 align="center">Hi 👋, I'm Himanshu Rawat</h1>
 <h3 align="center">Front-end Developer From The Woods of Himalayas</h3>
 
