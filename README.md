@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuraw&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuraw" /> </p>
 
-- 🔭 I’m currently working on **Harmony**
-
 - 💬 Ask me about **React, JS, HTML, CSS, NodeJs**
 
 - 📫 How to reach me **himanshurawat180@gmail.com**
